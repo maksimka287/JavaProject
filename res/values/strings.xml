@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--название приложения-->
+    <string name="app_name">Проект java</string>
+    <!--название проекта-->
+    <string name="project_name">JavaProject</string>
+    <!--названия страниц-->
+    <string name="label_auth">Авторизация</string>
+    <string name="label_profile">Профиль пользователя</string>
+    <string name="label_listTests">Список тестов</string>
+    <string name="label_question">Вопрос теста</string>
+    <string name="label_result">Результат теста</string>
+
+    <string name="action_settings">О программе</string>
+
+</resources>
